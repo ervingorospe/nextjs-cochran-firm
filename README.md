@@ -21,4 +21,4 @@ npm run start
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## To View The Existing Site
-[`American Covers`](https://cochran-firm-1332.vercel.app/).
+[`Cochran Firm`](https://cochran-firm-1332.vercel.app/).
